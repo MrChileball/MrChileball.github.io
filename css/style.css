@@ -399,7 +399,7 @@ a:focus {
   padding: 10px 45px;
   background-color: #f25c54;
   color: #ffffff;
-  border-radius: 15px;
+  border-radius: 20px;
   border: 1px solid #f25c54;
   -webkit-transition: all .3s;
   transition: all .3s;
